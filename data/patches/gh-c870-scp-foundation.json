@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "SCP Foundation",
+	"description": "The SCP Foundation is a fictional secret organization documented by the collaborative-writing wiki project of the same name. Within the website's shared universe, the Foundation is responsible for capturing, containing, and studying various paranormal, supernatural, and other mysterious phenomena unexplained by science (known as \"anomalies\" or \"SCPs\"), while also keeping their existence hidden from the rest of human society.",
+	"links": {
+		"website": [
+			"https://scp-wiki.wikidot.com/"
+		],
+		"subreddit": [
+			"SCP"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1500,
+				11
+			],
+			[
+				-1484,
+				11
+			],
+			[
+				-1483,
+				22
+			],
+			[
+				-1500,
+				23
+			],
+			[
+				-1500,
+				11
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1492,
+			17
+		]
+	}
+}
